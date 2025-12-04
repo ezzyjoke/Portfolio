@@ -26,7 +26,11 @@
 !\[alt text]\(Url)|
 
 ---
-## code blocks (used to display code without changing it's format)
+## Inline Code / Inline Text
+`ls` <br>
+\`ls`
+---
+## Code blocks (used to display code without changing it's format)
 \```
 text
 \```
