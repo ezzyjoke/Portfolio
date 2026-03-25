@@ -1,5 +1,5 @@
 # Github formatting cheatsheet
-### made by Fadi Abu Mariam
+### made by Fadi 
 
 ---
 ## Headers 

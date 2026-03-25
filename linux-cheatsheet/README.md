@@ -1,5 +1,5 @@
 # Linux Cheatsheet 
-### made by Fadi Abu Mariam
+### made by Fadi
 
 #### A cheatsheet I made for myself to help myself
 ---
